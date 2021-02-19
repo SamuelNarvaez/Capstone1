@@ -15,19 +15,23 @@ I think it could be interesting to choose a few days and compare the correlation
 #### Possible Hypotheses to test: 
 Could test to confirm that the PVI is a better predictor for COVID infections and deaths than any of the individual datapoints on their own 
 ## Proposal 2: 
-### 
+### Spotify
+https://www.kaggle.com/yamaerenay/spotify-dataset-19212020-160k-tracks
 
 #### Dataset
- 
+ A dataset containing numerical and categorical attributes of over 175000 songs from spotify.  
 #### Possible Visualizations
-
+Could compare the average change in attributes like instrumentalness and danceability over time, could find correlations between popularity and other attributes.
 #### Possible Hypotheses to test: 
-
+does tempo affect popularity of a song? How about instrumentalness?
 ## Proposal 3: 
-### 
-
+### Kickstarter Projects
+https://www.kaggle.com/kemical/kickstarter-projects?select=ks-projects-201801.csv
 #### Dataset
- 
+data from kickstarter including funding goals, funding fulfilled, etc. 
 #### Possible Visualizations
-
+Could visualize how many kickstarters get different percentiles of their goals met
+Could visualize how many successful kickstarters there are by category, length of funding window, year, etc. 
 #### Possible Hypotheses to test: 
+Were there some years that kickstarters were in general more successful?
+Are certain categories of kickstarter more likely to be funded?
