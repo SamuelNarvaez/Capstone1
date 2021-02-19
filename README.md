@@ -31,6 +31,7 @@ https://www.kaggle.com/kemical/kickstarter-projects?select=ks-projects-201801.cs
 data from kickstarter including funding goals, funding fulfilled, etc. 
 #### Possible Visualizations
 Could visualize how many kickstarters get different percentiles of their goals met
+
 Could visualize how many successful kickstarters there are by category, length of funding window, year, etc. 
 #### Possible Hypotheses to test: 
 Were there some years that kickstarters were in general more successful?
