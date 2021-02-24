@@ -3,7 +3,8 @@
 ## Proposal:
 ### Exploring Composite Indicators via the CDC's Pandemic Vulnerability Index (PVI):
   [PVI dashboard](https://covid.cdc.gov/covid-data-tracker/#pandemic-vulnerability-index)
-  [medR$\chi$ve](https://www.medrxiv.org/content/10.1101/2020.08.10.20169649v3.full-text)
+  
+  [medR $\chi$ ve](https://www.medrxiv.org/content/10.1101/2020.08.10.20169649v3.full-text)
 
   [data source](https://github.com/COVID19PVI/data)
 #### Abstract
