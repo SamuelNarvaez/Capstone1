@@ -5,7 +5,7 @@
   [PVI dashboard](https://covid.cdc.gov/covid-data-tracker/#pandemic-vulnerability-index)
   
   [medR $\chi$ ve](https://www.medrxiv.org/content/10.1101/2020.08.10.20169649v3.full-text)
-
+$\chi$
   [data source](https://github.com/COVID19PVI/data)
 #### Abstract
 I am interested in unpacking the data that go into the making of the Pandemic Vulnerability Index (PVI). The index is an aggregation of various indicators that are normalized and weighted as outlined [here](https://www.niehs.nih.gov/research/programs/coronavirus/covid19pvi/details/). The specific datasets (“components”) comprising the current PVI model were each assigned to an indicator (“data slice”) as part of four major domains: Infection Rate, Population Concentration, Intervention Measures, and Health & Environment. I will be looking at the source data and unpacking the components aggregated within the four major domains to better understand the choices made in creating the PVI using as a framework [steps](https://composite-indicators.jrc.ec.europa.eu/?q=10-step-guide) from the OECD's [Handbook on Constructing Composite Indicators](http://www.oecd.org/sdd/42495745.pdf):
