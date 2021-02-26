@@ -23,8 +23,11 @@ I am interested in unpacking the data that go into the making of the Pandemic Vu
 * Step 10: Visualisation
 #### Possible Visualizations
 I think it could be interesting to choose a few days and compare the correlations between COVID deaths and all the individual variables that go into the PVI as well as the PVI itself AND correlations between COVID infections and all the individual variables that go into the PVI as well as the PVI itself.
-#### Possible Hypotheses to test:
-Could test to confirm that the PVI is a better predictor for COVID infections and deaths than any of the individual datapoints on their own
+#### Statistical Tests:
+For interest in {Deaths,Cases}, and indicators in the dataset, I calculated 2 sample t-tests on the following hypotheses:
+
+H0: mean(interest | indicator abv average) = mean(interest | indicator bel average)
+HA: mean(interest | indicator abv average) != mean(interest | indicator bel average)
 
 ## Preliminary EDA:
 #### Heatmap of Cases around the US on Jan 15, 2021:
