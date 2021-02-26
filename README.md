@@ -27,6 +27,7 @@ I think it could be interesting to choose a few days and compare the correlation
 For interest in {Deaths,Cases}, and indicators in the dataset, I calculated 2 sample t-tests on the following hypotheses:
 
 H0: mean(interest | indicator abv average) = mean(interest | indicator bel average)
+
 HA: mean(interest | indicator abv average) != mean(interest | indicator bel average)
 
 ## Preliminary EDA:
