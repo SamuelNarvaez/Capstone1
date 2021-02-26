@@ -22,7 +22,7 @@ I am interested in unpacking the data that go into the making of the Pandemic Vu
 * Step 9: Link to other measures
 * Step 10: Visualisation
 #### Possible Visualizations
-I think it could be interesting to choose a few days and compare the correlations between COVID deaths and all the individual variables that go into the PVI as well as the PVI itself AND correlations between COVID infections and all the individual variables that go into the PVI as well as the PVI itself.
+Mapping individual indicators accross the United States to get a sense of their geographic distribution.
 #### Statistical Tests:
 For interest in {Deaths,Cases}, and indicators in the dataset, I calculated 2 sample t-tests on the following hypotheses:
 
