@@ -1,4 +1,4 @@
-# Samuel Narvaez - Galvanize DSI Capstone 1
+# Samuel Narvaez
 
 ## Proposal:
 ### Exploring Composite Indicators via the CDC's Pandemic Vulnerability Index (PVI):
